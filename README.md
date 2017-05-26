@@ -3,6 +3,7 @@ React calculator
 Clone :
 
 $ git clone https://github.com/polinazolotukhina/React-calculator.git
+
 ..........................................................................
 
 Go to the folder:
